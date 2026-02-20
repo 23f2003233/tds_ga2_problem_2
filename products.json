@@ -28,9 +28,13 @@
     {"id":"prod-709b093a-022","name":"Elite Item 22","category":"home","price":408.91,"stock":104,"rating":1.1}
   ],
   "aggregations": {
-    "home": {
-      "count": 4,
-      "inventoryValue": 84817.39
-    }
+  "home": {
+    "count": 4,
+    "inventoryValue": 84817.39
+  },
+  "electronics": {
+    "count": 5,
+    "inventoryValue": 147687.04
   }
+}
 }
